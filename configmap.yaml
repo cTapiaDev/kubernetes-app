@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-config
+data:
+  api_message_key: "¡Hola desde configuración de Kubernetes!"
+  app_environment: "staging"

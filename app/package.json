@@ -1,0 +1,15 @@
+{
+  "name": "simple-k8s-app",
+  "version": "1.0.0",
+  "description": "Aplicación Node.js para demostrar despliegue en Kubernetes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [],
+  "author": "Carlos Tapia",
+  "license": "MIT"
+}
